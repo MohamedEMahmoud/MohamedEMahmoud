@@ -36,7 +36,6 @@
 ```yaml
 name: Mohamed Emad
 role: Software Engineer
-education: Computer Science Student
 location: Egypt 🇪🇬
 currently_working_on: Building web applications & sharpening my skills
 learning: Advanced backend systems & cloud technologies
